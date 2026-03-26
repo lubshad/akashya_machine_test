@@ -1,0 +1,9 @@
+Analyzing finvestea_app...                                      
+
+   info • Statements in an if should be enclosed in a block • lib/core/router.dart:140:9 • curly_braces_in_flow_control_structures
+   info • Statements in an if should be enclosed in a block • lib/features/navigation/presentation/main_navigation_screen.dart:115:44 • curly_braces_in_flow_control_structures
+   info • Statements in an if should be enclosed in a block • lib/features/navigation/presentation/main_navigation_screen.dart:116:47 • curly_braces_in_flow_control_structures
+   info • Statements in an if should be enclosed in a block • lib/features/navigation/presentation/main_navigation_screen.dart:117:55 • curly_braces_in_flow_control_structures
+   info • Statements in an if should be enclosed in a block • lib/features/navigation/presentation/main_navigation_screen.dart:118:47 • curly_braces_in_flow_control_structures
+
+5 issues found. (ran in 6.7s)

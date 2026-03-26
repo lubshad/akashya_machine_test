@@ -1,0 +1,439 @@
+{
+  "project_info": {
+    "project_number": "1024919465405",
+    "firebase_url": "https://learn-6c78b.firebaseio.com",
+    "project_id": "learn-6c78b",
+    "storage_bucket": "learn-6c78b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024919465405:android:33341a366378336615b6d4",
+        "android_client_info": {
+          "package_name": "com.conceptics.mca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024919465405-qopbqssgfrqks5guitb02a7n5f7on46a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoD3lrMIzQrMtD8ynJ3F6pitkgIubrlr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024919465405-qopbqssgfrqks5guitb02a7n5f7on46a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1024919465405-0nl7jlevaaf84ja3qcjkrg195t12lk3g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.clezz"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024919465405:android:92f3c45aaae2092015b6d4",
+        "android_client_info": {
+          "package_name": "com.conceptics.mcal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024919465405-qopbqssgfrqks5guitb02a7n5f7on46a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoD3lrMIzQrMtD8ynJ3F6pitkgIubrlr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024919465405-qopbqssgfrqks5guitb02a7n5f7on46a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1024919465405-0nl7jlevaaf84ja3qcjkrg195t12lk3g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.clezz"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024919465405:android:b77d3491c73befe315b6d4",
+        "android_client_info": {
+          "package_name": "com.example.finvestea_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024919465405-qopbqssgfrqks5guitb02a7n5f7on46a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoD3lrMIzQrMtD8ynJ3F6pitkgIubrlr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024919465405-qopbqssgfrqks5guitb02a7n5f7on46a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1024919465405-0nl7jlevaaf84ja3qcjkrg195t12lk3g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.clezz"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024919465405:android:48243aa47866fea815b6d4",
+        "android_client_info": {
+          "package_name": "com.example.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024919465405-qopbqssgfrqks5guitb02a7n5f7on46a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoD3lrMIzQrMtD8ynJ3F6pitkgIubrlr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024919465405-qopbqssgfrqks5guitb02a7n5f7on46a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1024919465405-0nl7jlevaaf84ja3qcjkrg195t12lk3g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.clezz"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024919465405:android:896afc7de0ef670815b6d4",
+        "android_client_info": {
+          "package_name": "com.learn.droplet_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024919465405-8liqs758br11vf7kcd2tbqskdkhkkbad.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.learn.droplet_manager",
+            "certificate_hash": "168f4046b15a20f90c1c4d658cc51cd98cf2f675"
+          }
+        },
+        {
+          "client_id": "1024919465405-ocmqcrgnm8luanq75b7sakqfg2t4hqon.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.learn.droplet_manager",
+            "certificate_hash": "2cc2e0329555577df9f5a6f2895be004538cf99e"
+          }
+        },
+        {
+          "client_id": "1024919465405-qopbqssgfrqks5guitb02a7n5f7on46a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoD3lrMIzQrMtD8ynJ3F6pitkgIubrlr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024919465405-qopbqssgfrqks5guitb02a7n5f7on46a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1024919465405-0nl7jlevaaf84ja3qcjkrg195t12lk3g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.clezz"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024919465405:android:52fd628b4794947915b6d4",
+        "android_client_info": {
+          "package_name": "com.lubshad.restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024919465405-fcj96k4lr2sauvjiru2k97chjimgg7ha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lubshad.restaurant",
+            "certificate_hash": "a8d9011fb7124311e771aa28110df1cf6941d246"
+          }
+        },
+        {
+          "client_id": "1024919465405-ii00422qv962bqqn4mljmds6908hn3os.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lubshad.restaurant",
+            "certificate_hash": "fbe4455ba177067b793540213e83eceac7c7ec84"
+          }
+        },
+        {
+          "client_id": "1024919465405-qopbqssgfrqks5guitb02a7n5f7on46a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoD3lrMIzQrMtD8ynJ3F6pitkgIubrlr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024919465405-qopbqssgfrqks5guitb02a7n5f7on46a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1024919465405-0nl7jlevaaf84ja3qcjkrg195t12lk3g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.clezz"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024919465405:android:abb71024017a9b5d15b6d4",
+        "android_client_info": {
+          "package_name": "com.mcalindia.mcal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024919465405-qopbqssgfrqks5guitb02a7n5f7on46a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoD3lrMIzQrMtD8ynJ3F6pitkgIubrlr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024919465405-qopbqssgfrqks5guitb02a7n5f7on46a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1024919465405-0nl7jlevaaf84ja3qcjkrg195t12lk3g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.clezz"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024919465405:android:152090fb47192a5515b6d4",
+        "android_client_info": {
+          "package_name": "com.nutricare.nutricare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024919465405-qopbqssgfrqks5guitb02a7n5f7on46a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoD3lrMIzQrMtD8ynJ3F6pitkgIubrlr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024919465405-qopbqssgfrqks5guitb02a7n5f7on46a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1024919465405-0nl7jlevaaf84ja3qcjkrg195t12lk3g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.clezz"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024919465405:android:72a656ad5d14e58115b6d4",
+        "android_client_info": {
+          "package_name": "com.sasha.mealplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024919465405-qopbqssgfrqks5guitb02a7n5f7on46a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoD3lrMIzQrMtD8ynJ3F6pitkgIubrlr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024919465405-qopbqssgfrqks5guitb02a7n5f7on46a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1024919465405-0nl7jlevaaf84ja3qcjkrg195t12lk3g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.clezz"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024919465405:android:b5c4246c9f06844b15b6d4",
+        "android_client_info": {
+          "package_name": "com.sinn.sinn_doctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024919465405-qopbqssgfrqks5guitb02a7n5f7on46a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoD3lrMIzQrMtD8ynJ3F6pitkgIubrlr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024919465405-qopbqssgfrqks5guitb02a7n5f7on46a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1024919465405-0nl7jlevaaf84ja3qcjkrg195t12lk3g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.clezz"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024919465405:android:37baf9b256873a7015b6d4",
+        "android_client_info": {
+          "package_name": "com.sinn.sinn_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024919465405-qopbqssgfrqks5guitb02a7n5f7on46a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoD3lrMIzQrMtD8ynJ3F6pitkgIubrlr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024919465405-qopbqssgfrqks5guitb02a7n5f7on46a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1024919465405-0nl7jlevaaf84ja3qcjkrg195t12lk3g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.clezz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
